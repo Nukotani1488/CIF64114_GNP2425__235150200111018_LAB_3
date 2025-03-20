@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <title>Login Page</title>
+        <link href="/style.css" rel="stylesheet" type="text/css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="form-container">
+            <p class="form-title">Welcome Back!</p>
+            <form class="form" action="/login" method="post">
+                <fieldset>
+                    <label for="username">Username:</label>
+                    <input type="text" name="username" required>
+                    <label for="password">Password:</label>
+                    <input type="text" name="password" required>
+                    <submit type="submit">Login</submit>
+                </fieldset>
+            </form>
+            <p>
+                Don't have an account? <a href="/register.html" style="text-decoration: none; color: #1A1A1A; font-weight: 700;">Register</a>
+            </p>
+            <ul class="links">
+                <li>
+                    <a href="https://facebook.com"></a>
+                </li>
+                <li>
+                    <a href="https://whatsapp.com"></a>
+                </li>
+                <li>
+                    <a href="https://telegram.com"></a>
+                </li>
+                <li>
+                    <a href="https://google.com"></a>
+                </li>
+            </ul>
+        </div>
+        <img id="laptop-image" src="/laptop.png" alt="laptop">
+        <div id="rectangle"></div>
+        <img id="login-bg" src="/login_bg.png">
+    </body>
+</html>
