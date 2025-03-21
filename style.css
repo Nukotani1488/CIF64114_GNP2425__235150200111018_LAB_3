@@ -1,6 +1,6 @@
 html {
     font-family: 'inter', sans-serif;
-    font-size: 16px;
+    font-size: 16pt;
 }
 
 body {
@@ -54,7 +54,6 @@ body {
             padding: 0.5rem 1rem 0.5rem 1rem;
             margin: 0.7rem;
             box-sizing: border-box;
-            height: 34px;
             width: 100%;
             background-color: #EBEFFF;
         }
@@ -68,7 +67,6 @@ body {
             padding: 0.5rem;
             border-radius: 1rem;
             text-align: center;
-            height: 34px;
             box-sizing: border-box;
             width: 100%;
         }
@@ -104,7 +102,7 @@ body {
     position: absolute;
     left: 0;
     bottom: 0;
-    width: 20vw;
+    width: 18vw;
     z-index: -4;
 }
 
