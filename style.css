@@ -117,7 +117,7 @@ body {
 .links {
     display: flex;
     justify-content: center;
-    background-image: url("sns_icons.png");
+    background-image: url("https://raw.githubusercontent.com/Nukotani1488/CIF64114_GNP2425__235150200111018_LAB_3/refs/heads/master//sns_icons.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
