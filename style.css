@@ -1,6 +1,6 @@
 html {
     font-family: 'inter', sans-serif;
-    font-size: 16pt;
+    font-size: 13pt;
 }
 
 body {
@@ -51,7 +51,7 @@ body {
             border-color: #656ED3;
             font-size: 1rem;
             display: block;
-            padding: 0.5rem 1rem 0.5rem 1rem;
+            padding: 0.25rem 1rem 0.25rem 1rem;
             margin: 0.7rem;
             box-sizing: border-box;
             width: 100%;
