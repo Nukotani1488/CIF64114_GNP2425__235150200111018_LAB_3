@@ -117,7 +117,7 @@ body {
 .links {
     display: flex;
     justify-content: center;
-    background-image: url("/sns_icons.png");
+    background-image: url("sns_icons.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
